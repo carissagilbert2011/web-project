@@ -1,7 +1,7 @@
 <DOCTYPE html!>
 <html>
 <head>
-<title>CSS Exercises 1</title>
+<title> Test Project for Class</title>
 <style>
 p {
 color: blue;
